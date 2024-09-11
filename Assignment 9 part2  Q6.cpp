@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-
+\\not added
 int main()
 {
 	double x,y;
