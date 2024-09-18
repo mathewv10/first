@@ -1,0 +1,12 @@
+Write a program to read two double 
+values from the keyboard and calculate 
+the division of these two numbers. 
+a)the program should throw an exception, 
+ when a wrong type of data is keyedin 
+b)the program should throw an exception,
+ if the condition ‘divide-by-zero’ occurs. 
+c)the program should throw an exception,
+ if the condition second value is 
+ greater than the first. 
+d)Write Appropriate catch block 
+ to handle the exceptions thrown
